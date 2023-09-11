@@ -1,0 +1,15 @@
+#image,#img-div{
+    text-align:center;
+    max-width:100%;
+    display:block;
+  }
+  body{
+    background-color:burlywood;
+    padding:20px;
+    margin:35px;
+    border:solid 21px darkred;
+    text-align:center;
+  }
+  #main{
+    color:darkred;
+  }
